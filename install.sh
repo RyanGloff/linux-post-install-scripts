@@ -64,6 +64,9 @@ echo "export MAVEN_HOME=/usr/share/maven" >> ~/.bashrc
 # Installing node and npm
 sudo apt install npm -y
 
+# Installing steam
+sudo apt install steam -y
+
 # Shortcut aliases
 echo "" >> ~/.bashrc
 echo "# Creating useful aliases" >> ~/.bashrc
